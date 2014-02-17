@@ -1,0 +1,39 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+
+*.sdf
+*.suo
+*.opensdf
+
+*.class
+*.dex
+*.ap_
+*.cache
+*.jar
+
+
+**/proj.win32/Debug.win32/
+proj.win32/Debug.win32/
+
+**/proj.win32/Release.win32/
+proj.win32/Release.win32/
+
+
+**/proj.android/assets/
+**/proj.android/obj/
+
+
+**/proj.linux/
+**/proj.linux/*
